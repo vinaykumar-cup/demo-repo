@@ -1,4 +1,7 @@
 # demo-repo
 demo repo
 <BR>
-author vinay
+author vinay (vinay kumar)
+i love my india
+i love my country
+
